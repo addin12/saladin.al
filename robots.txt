@@ -1,1 +1,1 @@
-Sitemap: https://addin12.github.io/saladin.al/sitemap.xml
+Sitemap: https://saladin.al.github.io/saladin.al/sitemap.xml
