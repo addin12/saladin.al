@@ -46,7 +46,7 @@ Hello, My Name is Muhammad Sholahuddin Al-Ayubi. You can call me Addin. Fresh Gr
 
 <h3>Skills</h3>
 <ul>
-  <li>Python, C/C++, SQL, Tensorflow, Keras, OpenCV, ROS, Linux, Tableau, Raspberry Pi, Arduino, STM32, Electrical/Electronics, Embedded Systems</li>
+  <li>Python, C/C++, SQL, Tensorflow, Keras, OpenCV, ROS, Linux, Tableau, Raspberry Pi, Nvidia Jetson, Arduino, STM32</li>
 </ul>
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)**.
