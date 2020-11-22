@@ -9,6 +9,7 @@ Hello, My Name is Muhammad Sholahuddin Al-Ayubi. You can call me Addin. Fresh Gr
 </p>
 
 <h3>Experience</h3>
+
 **Microeletronics & Embedded Systems Laboratory ITS**
 <ul>
   <li>Became a laboratory assistant focusing on the study of microelectronics, embedded system, robotics, and other electronics technologies.</li>
@@ -22,6 +23,7 @@ Hello, My Name is Muhammad Sholahuddin Al-Ayubi. You can call me Addin. Fresh Gr
 </ul>
 
 <h3>Projects</h3>
+
 **RISMA**
 <ul>
   <li>type here</li>
@@ -35,6 +37,7 @@ Hello, My Name is Muhammad Sholahuddin Al-Ayubi. You can call me Addin. Fresh Gr
 </ul>
 
 <h3>Education</h3>
+
 **Institut Teknologi Sepuluh Nopember – Electrical Engineering (Electronics)**
 <ul>
   <li>GPA 3.26/4.0</li>
